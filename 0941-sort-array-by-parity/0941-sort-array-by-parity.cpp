@@ -2,7 +2,8 @@ class Solution {
 public:
     vector<int> sortArrayByParity(vector<int>& nums) {
         int p1 = 0;
-        for(int p2 = 0; p2< nums.size(); p2++){
+        int n = nums.size();
+        for(int p2 = 0; p2< n; p2++){
             if(p1 <= p2){
                 if(nums[p2] % 2 == 0 && nums[p1] % 2 != 0){
                     nums[p1] = nums[p1] + nums[p2];

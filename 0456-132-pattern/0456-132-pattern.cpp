@@ -8,11 +8,11 @@ public:
            newarr[i] = min(newarr[i-1], nums[i]);
        }
        stack<int> stack;
-       for (int j = n-1; j >= 0; j--) { // Fix the loop variable
+       for (int j = n-1; j >= 0; j--) { 
            if (nums[j] > newarr[j]) {
-               while (!stack.empty() && stack.top() <= newarr[j]) // Changed '<' to '<=' here
+               while (!stack.empty() && stack.top() <= newarr[j]) 
                     stack.pop();
-               if (!stack.empty() && stack.top() < nums[j]) // Changed 'stack.top() < newarr[j]' to 'stack.top() < nums[j]' here
+               if (!stack.empty() && stack.top() < nums[j]) 
                         return true;
                stack.push(nums[j]);
            }

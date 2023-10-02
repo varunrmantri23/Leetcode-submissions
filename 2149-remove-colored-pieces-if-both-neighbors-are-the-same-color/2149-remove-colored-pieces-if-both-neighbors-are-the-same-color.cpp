@@ -3,7 +3,8 @@ public:
     bool winnerOfGame(string colors) {
         int alice = 0;
         int bob = 0;
-        for(int i = 1; i < (colors.length() - 1);i++){
+        int n = colors.length();
+        for(int i = 1; i < (n - 1);i++){
             if(colors[i] == 'A'&& colors[i-1] == 'A' && colors[i+1] == 'A' ){
                 alice += 1;
             }

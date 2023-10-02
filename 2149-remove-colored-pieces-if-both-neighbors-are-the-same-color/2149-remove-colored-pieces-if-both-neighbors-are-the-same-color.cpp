@@ -11,12 +11,7 @@ public:
                 bob += 1;
             }
         }
-        if((alice - bob) > 1) return true;
-        else if((bob - alice) > 1) return false;
-        if(alice - bob ==1) return true;
-        else if (bob - alice == 1) return false;
-        if(alice - bob == 0) return false;
-        return false;
+        if(alice > bob ) return true;
+        else return false;
     }
 };
-//approach 1.st iterate all over and find consecutive a or b and store the (number -2), if number > 3, in alice variable or bob (a/b)(turns they will get) if alice variable is even and and bob is odd then she wins as she starts first

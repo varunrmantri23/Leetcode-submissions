@@ -7,8 +7,9 @@ public:
     }
     int binaryhelper(vector<int>&arr, int start, int end){
         int m = arr.size();
+        int mid =0;
         if (start <= end) {
-            int mid = (start + end) / 2;
+            mid = (start + end) / 2;
             
             if (arr[mid] > arr[mid - 1] && arr[mid] > arr[mid + 1]) {
                 return mid;

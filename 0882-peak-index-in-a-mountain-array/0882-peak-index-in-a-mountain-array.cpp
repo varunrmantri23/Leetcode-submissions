@@ -7,7 +7,6 @@ public:
     }
     int binaryhelper(vector<int>&arr, int start, int end){
         int m = arr.size();
-        int mid = 0;
         if (start <= end) {
             int mid = (start + end) / 2;
             

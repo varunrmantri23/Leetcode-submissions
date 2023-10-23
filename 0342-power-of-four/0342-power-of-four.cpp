@@ -1,14 +1,12 @@
 class Solution {
 public:
     bool isPowerOfFour(int n) {
-        if(n > 0 && n ==1) return true;
-        if ( n == 2 || n == 3) return false;
-        if(n > 3){
-            if(n % 4 == 0){
-                return isPowerOfFour(n/4);
-            }
-            else return false;
+        // Check if n is a positive power of 2
+        if (n <= 0 || (n & (n - 1)) != 0) {
+            return false;
         }
-        else return false;
+        
+        // Check if the only set bit is at an even position
+        return (n & 0x55555555) != 0;
     }
 };

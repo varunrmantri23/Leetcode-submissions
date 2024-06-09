@@ -15,10 +15,12 @@ Collection of LeetCode questions to ace the coding interview! Maintaining my DSA
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0523-continuous-subarray-sum) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/1016-subarray-sums-divisible-by-k) |
 # Hash Table
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0523-continuous-subarray-sum) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/1016-subarray-sums-divisible-by-k) |
 # Math
 |  |
 | ------- |
@@ -27,3 +29,4 @@ Collection of LeetCode questions to ace the coding interview! Maintaining my DSA
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0523-continuous-subarray-sum) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/1016-subarray-sums-divisible-by-k) |

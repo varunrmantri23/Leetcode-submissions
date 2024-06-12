@@ -10,10 +10,12 @@ Collection of LeetCode questions to ace the coding interview! Maintaining my DSA
 # Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0075-sort-colors) |
 | [0344-reverse-string](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0344-reverse-string) |
 # Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0075-sort-colors) |
 | [0523-continuous-subarray-sum](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0523-continuous-subarray-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1217-relative-sort-array](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/1217-relative-sort-array) |
@@ -35,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! Maintaining my DSA
 # Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0075-sort-colors) |
 | [1217-relative-sort-array](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/1217-relative-sort-array) |
 # Counting Sort
 |  |

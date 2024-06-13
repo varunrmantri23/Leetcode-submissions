@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! Maintaining my DSA
 | [0523-continuous-subarray-sum](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0523-continuous-subarray-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1217-relative-sort-array](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/1217-relative-sort-array) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Hash Table
 |  |
 | ------- |
@@ -39,7 +40,12 @@ Collection of LeetCode questions to ace the coding interview! Maintaining my DSA
 | ------- |
 | [0075-sort-colors](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0075-sort-colors) |
 | [1217-relative-sort-array](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/1217-relative-sort-array) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Counting Sort
 |  |
 | ------- |
 | [1217-relative-sort-array](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/1217-relative-sort-array) |
+# Greedy
+|  |
+| ------- |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |

@@ -12,11 +12,13 @@ Collection of LeetCode questions to ace the coding interview! Maintaining my DSA
 | ------- |
 | [0075-sort-colors](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0075-sort-colors) |
 | [0344-reverse-string](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0344-reverse-string) |
+| [0853-most-profit-assigning-work](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0853-most-profit-assigning-work) |
 # Array
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0075-sort-colors) |
 | [0523-continuous-subarray-sum](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0523-continuous-subarray-sum) |
+| [0853-most-profit-assigning-work](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0853-most-profit-assigning-work) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1217-relative-sort-array](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/1217-relative-sort-array) |
@@ -40,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! Maintaining my DSA
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0075-sort-colors) |
+| [0853-most-profit-assigning-work](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0853-most-profit-assigning-work) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1217-relative-sort-array](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/1217-relative-sort-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -51,5 +54,10 @@ Collection of LeetCode questions to ace the coding interview! Maintaining my DSA
 # Greedy
 |  |
 | ------- |
+| [0853-most-profit-assigning-work](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0853-most-profit-assigning-work) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+# Binary Search
+|  |
+| ------- |
+| [0853-most-profit-assigning-work](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0853-most-profit-assigning-work) |

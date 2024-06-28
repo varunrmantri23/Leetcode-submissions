@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! Maintaining my DSA
 | [0982-minimum-increment-to-make-array-unique](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1217-relative-sort-array](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/1217-relative-sort-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2379-maximum-total-importance-of-roads](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/2379-maximum-total-importance-of-roads) |
 # Counting Sort
 |  |
 | ------- |
@@ -61,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! Maintaining my DSA
 | [0853-most-profit-assigning-work](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0853-most-profit-assigning-work) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2379-maximum-total-importance-of-roads](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/2379-maximum-total-importance-of-roads) |
 # Binary Search
 |  |
 | ------- |
@@ -78,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! Maintaining my DSA
 |  |
 | ------- |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [2379-maximum-total-importance-of-roads](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/2379-maximum-total-importance-of-roads) |
 # Ordered Set
 |  |
 | ------- |
@@ -86,3 +89,7 @@ Collection of LeetCode questions to ace the coding interview! Maintaining my DSA
 |  |
 | ------- |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+# Graph
+|  |
+| ------- |
+| [2379-maximum-total-importance-of-roads](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/2379-maximum-total-importance-of-roads) |

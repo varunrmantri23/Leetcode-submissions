@@ -106,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! Maintaining my DSA
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0726-number-of-atoms](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0726-number-of-atoms) |
 ## Two Pointers
 |  |
 | ------- |
@@ -118,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview! Maintaining my DSA
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0726-number-of-atoms](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0726-number-of-atoms) |
 | [2846-robot-collisions](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/2846-robot-collisions) |
 ## Linked List
 |  |
@@ -126,10 +128,12 @@ Collection of LeetCode questions to ace the coding interview! Maintaining my DSA
 ## String
 |  |
 | ------- |
+| [0726-number-of-atoms](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0726-number-of-atoms) |
 | [1720-crawler-log-folder](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/1720-crawler-log-folder) |
 ## Stack
 |  |
 | ------- |
+| [0726-number-of-atoms](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0726-number-of-atoms) |
 | [1720-crawler-log-folder](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/1720-crawler-log-folder) |
 | [2846-robot-collisions](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/2846-robot-collisions) |
 ## Simulation

@@ -99,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! Maintaining my DSA
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0890-lemonade-change](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0890-lemonade-change) |
 | [0921-spiral-matrix-iii](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0921-spiral-matrix-iii) |
 | [1196-filling-bookcase-shelves](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/1196-filling-bookcase-shelves) |
 | [1293-three-consecutive-odds](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/1293-three-consecutive-odds) |
@@ -207,4 +208,8 @@ Collection of LeetCode questions to ace the coding interview! Maintaining my DSA
 |  |
 | ------- |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+## Greedy
+|  |
+| ------- |
+| [0890-lemonade-change](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0890-lemonade-change) |
 <!---LeetCode Topics End-->

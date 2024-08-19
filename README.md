@@ -181,6 +181,7 @@ Collection of LeetCode questions to ace the coding interview! Maintaining my DSA
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0264-ugly-number-ii) |
+| [0650-2-keys-keyboard](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0650-2-keys-keyboard) |
 | [1196-filling-bookcase-shelves](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/1196-filling-bookcase-shelves) |
 | [1511-count-number-of-teams](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/1511-count-number-of-teams) |
 ## Binary Indexed Tree
@@ -200,6 +201,7 @@ Collection of LeetCode questions to ace the coding interview! Maintaining my DSA
 | ------- |
 | [0264-ugly-number-ii](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0273-integer-to-english-words) |
+| [0650-2-keys-keyboard](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0650-2-keys-keyboard) |
 ## Recursion
 |  |
 | ------- |

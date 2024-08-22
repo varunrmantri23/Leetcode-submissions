@@ -1,30 +1,14 @@
 class Solution {
 public:
     int findComplement(int num) {
-        string num1 = toBinary(num);
+        if (num == 0) return 1;
         
-        // Flipping the bits
-        for (int i = 0; i < num1.length(); i++) {
-            num1[i] = (num1[i] == '0') ? '1' : '0';
+        unsigned int mask = ~0;
+        
+        while (num & mask) {
+            mask <<= 1;
         }
         
-        return toDecimal(num1);
-    }
-
-    string toBinary(int n) {
-        string r;
-        while (n != 0) {
-            r = (n % 2 == 0 ? "0" : "1") + r;
-            n /= 2;
-        }
-        return r;
-    }
-
-    int toDecimal(string n) {
-        int r = 0;
-        for (auto c : n) {
-            r = r * 2 + (c - '0');
-        }
-        return r;
+        return ~mask & ~num;
     }
 };

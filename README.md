@@ -120,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! Maintaining my DSA
 | [0264-ugly-number-ii](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0264-ugly-number-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0726-number-of-atoms](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0726-number-of-atoms) |
+| [1160-letter-tile-possibilities](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/1160-letter-tile-possibilities) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Two Pointers
@@ -146,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview! Maintaining my DSA
 | ------- |
 | [0273-integer-to-english-words](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0273-integer-to-english-words) |
 | [0726-number-of-atoms](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0726-number-of-atoms) |
+| [1160-letter-tile-possibilities](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/1160-letter-tile-possibilities) |
 | [1720-crawler-log-folder](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/1720-crawler-log-folder) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -205,6 +207,7 @@ Collection of LeetCode questions to ace the coding interview! Maintaining my DSA
 ## Counting
 |  |
 | ------- |
+| [1160-letter-tile-possibilities](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/1160-letter-tile-possibilities) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Math
 |  |
@@ -243,6 +246,7 @@ Collection of LeetCode questions to ace the coding interview! Maintaining my DSA
 ## Backtracking
 |  |
 | ------- |
+| [1160-letter-tile-possibilities](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/1160-letter-tile-possibilities) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Enumeration

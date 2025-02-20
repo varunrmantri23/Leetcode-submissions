@@ -109,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! Maintaining my DSA
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1720-crawler-log-folder](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/1720-crawler-log-folder) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [2107-find-unique-binary-string](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/2107-find-unique-binary-string) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
@@ -121,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! Maintaining my DSA
 | [0350-intersection-of-two-arrays-ii](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0726-number-of-atoms](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0726-number-of-atoms) |
 | [1160-letter-tile-possibilities](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/1160-letter-tile-possibilities) |
+| [2107-find-unique-binary-string](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/2107-find-unique-binary-string) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Two Pointers
@@ -151,6 +153,7 @@ Collection of LeetCode questions to ace the coding interview! Maintaining my DSA
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1720-crawler-log-folder](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/1720-crawler-log-folder) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2107-find-unique-binary-string](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/2107-find-unique-binary-string) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3451-string-compression-iii](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/3451-string-compression-iii) |
 ## Stack
@@ -249,6 +252,7 @@ Collection of LeetCode questions to ace the coding interview! Maintaining my DSA
 | ------- |
 | [1160-letter-tile-possibilities](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+| [2107-find-unique-binary-string](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/2107-find-unique-binary-string) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Enumeration

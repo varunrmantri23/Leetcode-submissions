@@ -137,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview! Maintaining my DSA
 | [2306-create-binary-tree-from-descriptions](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3227-find-missing-and-repeated-values](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/3227-find-missing-and-repeated-values) |
+| [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -172,6 +173,7 @@ Collection of LeetCode questions to ace the coding interview! Maintaining my DSA
 | [2107-find-unique-binary-string](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/2107-find-unique-binary-string) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3451-string-compression-iii](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/3451-string-compression-iii) |
+| [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Stack
 |  |
 | ------- |
@@ -236,6 +238,7 @@ Collection of LeetCode questions to ace the coding interview! Maintaining my DSA
 | ------- |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [3483-alternating-groups-ii](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/3483-alternating-groups-ii) |
+| [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Counting
 |  |
 | ------- |

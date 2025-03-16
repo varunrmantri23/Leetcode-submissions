@@ -6,36 +6,19 @@ public:
         first thought that comes to mind, is it greedy ? as we need smaller rank for more cars so that it can be done faster, but how do we decide that as we have to run parallel so lets think of binary search on time so that each mechanic can complete that time or before , we know 
         answer can be between min * total cars ^ 2 and 1;
         */
-        int minRank = ranks[0], maxRank = ranks[0];
-
-        for(int rank: ranks){
-            minRank = min(minRank,rank);
-            maxRank = max(maxRank,rank);
-        }
-
-        vector<int> freq(101,0);
-        for(int rank: ranks){
-            minRank = min(minRank,rank);
-            freq[rank]++;
-        }
-
-        long long low = 1, high = 1LL * minRank * cars * cars;
+        long long low = 1, high = 1LL * cars * cars * ranks[0];
 
         while(low < high){
             long long mid = low + (high - low )/2;
             long long carsRepaired = 0;
 
-            for (int rank = 1; rank <= maxRank; rank++) {
-                carsRepaired +=
-                    freq[rank] * (long long)sqrt(mid / (long long)rank);
-            }
+            for (auto rank : ranks) carsRepaired += sqrt(1.0 * mid / rank);
 
-            if (carsRepaired >= cars) {
-                high = mid; 
-            } else {
-                low = mid + 1; 
-            }
+            if (carsRepaired < cars)
+                low = mid + 1;
+            else high = mid;
         }
+        
         return low;
     }
 };

@@ -99,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! Maintaining my DSA
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0128-longest-consecutive-sequence) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0238-product-of-array-except-self) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0624-maximum-distance-in-arrays](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0624-maximum-distance-in-arrays) |
@@ -151,6 +152,7 @@ Collection of LeetCode questions to ace the coding interview! Maintaining my DSA
 ## Two Pointers
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/2551-apply-operations-to-an-array) |
@@ -158,6 +160,7 @@ Collection of LeetCode questions to ace the coding interview! Maintaining my DSA
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |

@@ -1,21 +1,26 @@
+#include <vector>
+#include <algorithm>
+using namespace std;
+
 class Solution {
 public:
     int longestNiceSubarray(vector<int>& nums) {
         int l = 0, r = 0;
         int answer = 0;
-        int bitmask = 0; // stores the bitwise OR of the current subarray
-        
-        // two-pointer approach
+        int sum = 0; // using sum instead of a proper bitmask
+
         while (r < nums.size()) {
-            // if conflict (common bits found), shrink window from left
-            while ((bitmask & nums[r]) != 0) {
-                bitmask ^= nums[l]; // remove nums[l] from bitmask
+            // Attempt to check for a conflict using (sum & nums[r]).
+            // With a true bitmask, (bitmask & nums[r]) != 0 means a conflict.
+            // However, with 'sum' (an arithmetic sum), this does not hold.
+            while (l < r && ((sum & nums[r]) != 0)) {
+                sum -= nums[l];
                 l++;
             }
             
-            bitmask |= nums[r]; // add nums[r] to bitmask
-            answer = max(answer, r - l + 1); // update answer
-            r++; // expand right pointer
+            sum += nums[r];
+            answer = max(answer, r - l + 1);
+            r++;
         }
         
         return answer;

@@ -99,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! Maintaining my DSA
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0011-container-with-most-water) |
+| [0042-trapping-rain-water](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0042-trapping-rain-water) |
 | [0128-longest-consecutive-sequence](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0238-product-of-array-except-self) |
@@ -154,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview! Maintaining my DSA
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0011-container-with-most-water) |
+| [0042-trapping-rain-water](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -198,6 +200,7 @@ Collection of LeetCode questions to ace the coding interview! Maintaining my DSA
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0042-trapping-rain-water) |
 | [0726-number-of-atoms](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0726-number-of-atoms) |
 | [1078-remove-outermost-parentheses](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/1078-remove-outermost-parentheses) |
 | [1720-crawler-log-folder](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/1720-crawler-log-folder) |
@@ -243,6 +246,7 @@ Collection of LeetCode questions to ace the coding interview! Maintaining my DSA
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0042-trapping-rain-water) |
 | [0264-ugly-number-ii](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0264-ugly-number-ii) |
 | [0650-2-keys-keyboard](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0650-2-keys-keyboard) |
 | [1170-shortest-common-supersequence](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/1170-shortest-common-supersequence) |
@@ -347,4 +351,8 @@ Collection of LeetCode questions to ace the coding interview! Maintaining my DSA
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0128-longest-consecutive-sequence) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->

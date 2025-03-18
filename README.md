@@ -100,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! Maintaining my DSA
 | ------- |
 | [0011-container-with-most-water](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0042-trapping-rain-water) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0238-product-of-array-except-self) |
@@ -247,6 +248,7 @@ Collection of LeetCode questions to ace the coding interview! Maintaining my DSA
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0042-trapping-rain-water) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0264-ugly-number-ii](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0264-ugly-number-ii) |
 | [0650-2-keys-keyboard](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0650-2-keys-keyboard) |
 | [1170-shortest-common-supersequence](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/1170-shortest-common-supersequence) |

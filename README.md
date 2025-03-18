@@ -143,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview! Maintaining my DSA
 | [0128-longest-consecutive-sequence](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0128-longest-consecutive-sequence) |
 | [0264-ugly-number-ii](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0264-ugly-number-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0424-longest-repeating-character-replacement) |
 | [0726-number-of-atoms](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0726-number-of-atoms) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/1160-letter-tile-possibilities) |
@@ -191,6 +192,7 @@ Collection of LeetCode questions to ace the coding interview! Maintaining my DSA
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0273-integer-to-english-words](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0273-integer-to-english-words) |
+| [0424-longest-repeating-character-replacement](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0424-longest-repeating-character-replacement) |
 | [0726-number-of-atoms](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0726-number-of-atoms) |
 | [1078-remove-outermost-parentheses](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/1078-remove-outermost-parentheses) |
 | [1160-letter-tile-possibilities](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/1160-letter-tile-possibilities) |
@@ -271,6 +273,7 @@ Collection of LeetCode questions to ace the coding interview! Maintaining my DSA
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0424-longest-repeating-character-replacement) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2478-longest-nice-subarray](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/2478-longest-nice-subarray) |

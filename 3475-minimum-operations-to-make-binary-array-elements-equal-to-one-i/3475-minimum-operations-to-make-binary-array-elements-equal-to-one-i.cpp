@@ -14,9 +14,7 @@ public:
             }
         }
 
-        for (int i = 0; i < n; i++) {
-            if (nums[i] == 0) return -1;
-        }
+        if(nums[n-2] == 0 || nums[n-1] == 0) return -1;
 
         return operations;
     }

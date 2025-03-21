@@ -123,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview! Maintaining my DSA
 | [2107-find-unique-binary-string](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/2107-find-unique-binary-string) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -153,6 +154,7 @@ Collection of LeetCode questions to ace the coding interview! Maintaining my DSA
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2107-find-unique-binary-string](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/2107-find-unique-binary-string) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2308-divide-array-into-equal-pairs](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -205,6 +207,7 @@ Collection of LeetCode questions to ace the coding interview! Maintaining my DSA
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2107-find-unique-binary-string](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/2107-find-unique-binary-string) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [3451-string-compression-iii](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/3451-string-compression-iii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Stack
@@ -385,5 +388,10 @@ Collection of LeetCode questions to ace the coding interview! Maintaining my DSA
 ## Graph
 |  |
 | ------- |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
+## Topological Sort
+|  |
+| ------- |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 <!---LeetCode Topics End-->

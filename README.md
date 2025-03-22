@@ -250,6 +250,7 @@ Collection of LeetCode questions to ace the coding interview! Maintaining my DSA
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+| [2793-count-the-number-of-complete-components](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/2793-count-the-number-of-complete-components) |
 ## Matrix
 |  |
 | ------- |
@@ -313,6 +314,7 @@ Collection of LeetCode questions to ace the coding interview! Maintaining my DSA
 | ------- |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+| [2793-count-the-number-of-complete-components](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/2793-count-the-number-of-complete-components) |
 ## Strongly Connected Component
 |  |
 | ------- |
@@ -377,6 +379,7 @@ Collection of LeetCode questions to ace the coding interview! Maintaining my DSA
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0128-longest-consecutive-sequence) |
+| [2793-count-the-number-of-complete-components](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Monotonic Stack
 |  |
@@ -390,6 +393,7 @@ Collection of LeetCode questions to ace the coding interview! Maintaining my DSA
 |  |
 | ------- |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2793-count-the-number-of-complete-components](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Topological Sort
 |  |

@@ -300,6 +300,7 @@ Collection of LeetCode questions to ace the coding interview! Maintaining my DSA
 | [0650-2-keys-keyboard](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0650-2-keys-keyboard) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [2575-minimum-cuts-to-divide-a-circle](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 | [2649-count-total-number-of-colored-cells](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/2649-count-total-number-of-colored-cells) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3227-find-missing-and-repeated-values](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/3227-find-missing-and-repeated-values) |
@@ -394,4 +395,8 @@ Collection of LeetCode questions to ace the coding interview! Maintaining my DSA
 |  |
 | ------- |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+## Geometry
+|  |
+| ------- |
+| [2575-minimum-cuts-to-divide-a-circle](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 <!---LeetCode Topics End-->

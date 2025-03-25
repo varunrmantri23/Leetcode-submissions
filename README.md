@@ -100,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! Maintaining my DSA
 | ------- |
 | [0011-container-with-most-water](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0042-trapping-rain-water) |
+| [0056-merge-intervals](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0056-merge-intervals) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -183,6 +184,7 @@ Collection of LeetCode questions to ace the coding interview! Maintaining my DSA
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0056-merge-intervals) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0726-number-of-atoms](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0726-number-of-atoms) |
 | [1184-car-pooling](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/1184-car-pooling) |

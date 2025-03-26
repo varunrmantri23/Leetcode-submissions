@@ -122,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! Maintaining my DSA
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2107-find-unique-binary-string](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/2107-find-unique-binary-string) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -189,6 +190,7 @@ Collection of LeetCode questions to ace the coding interview! Maintaining my DSA
 | [0350-intersection-of-two-arrays-ii](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0726-number-of-atoms](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0726-number-of-atoms) |
 | [1184-car-pooling](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/1184-car-pooling) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2846-robot-collisions](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/2846-robot-collisions) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Linked List
@@ -261,6 +263,7 @@ Collection of LeetCode questions to ace the coding interview! Maintaining my DSA
 | [0921-spiral-matrix-iii](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0921-spiral-matrix-iii) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/3227-find-missing-and-repeated-values) |
 ## Dynamic Programming
 |  |
@@ -306,6 +309,7 @@ Collection of LeetCode questions to ace the coding interview! Maintaining my DSA
 | [0650-2-keys-keyboard](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0650-2-keys-keyboard) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 | [2649-count-total-number-of-colored-cells](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/2649-count-total-number-of-colored-cells) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/2802-find-the-punishment-number-of-an-integer) |

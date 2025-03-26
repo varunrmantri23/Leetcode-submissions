@@ -15,9 +15,11 @@ public:
             for(int j = 0; j < m;j++)
                 vec.push_back(grid[i][j]);
         }
-        //sort
-        sort(vec.begin(), vec.end());
+        
         int L = vec.size(); //n*m
+        // sort(vec.begin(), vec.end()); //O(LlogL)
+        nth_element(begin(vec), begin(vec)+ L/2, end(vec));
+        
         int target = vec[L/2];
         //cout << target << endl;
         

@@ -139,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview! Maintaining my DSA
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2846-robot-collisions](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/2846-robot-collisions) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3001-apply-operations-to-maximize-score](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/3001-apply-operations-to-maximize-score) |
 | [3227-find-missing-and-repeated-values](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/3227-find-missing-and-repeated-values) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -198,6 +199,7 @@ Collection of LeetCode questions to ace the coding interview! Maintaining my DSA
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2846-robot-collisions](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/2846-robot-collisions) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3001-apply-operations-to-maximize-score](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/3001-apply-operations-to-maximize-score) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Linked List
 |  |
@@ -230,6 +232,7 @@ Collection of LeetCode questions to ace the coding interview! Maintaining my DSA
 | [1078-remove-outermost-parentheses](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/1078-remove-outermost-parentheses) |
 | [1720-crawler-log-folder](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/1720-crawler-log-folder) |
 | [2846-robot-collisions](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/2846-robot-collisions) |
+| [3001-apply-operations-to-maximize-score](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/3001-apply-operations-to-maximize-score) |
 ## Simulation
 |  |
 | ------- |
@@ -320,6 +323,7 @@ Collection of LeetCode questions to ace the coding interview! Maintaining my DSA
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 | [2649-count-total-number-of-colored-cells](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/2649-count-total-number-of-colored-cells) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/2802-find-the-punishment-number-of-an-integer) |
+| [3001-apply-operations-to-maximize-score](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/3001-apply-operations-to-maximize-score) |
 | [3227-find-missing-and-repeated-values](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/3227-find-missing-and-repeated-values) |
 ## Recursion
 |  |
@@ -343,6 +347,7 @@ Collection of LeetCode questions to ace the coding interview! Maintaining my DSA
 | [0624-maximum-distance-in-arrays](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0624-maximum-distance-in-arrays) |
 | [0890-lemonade-change](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0890-lemonade-change) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [3001-apply-operations-to-maximize-score](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/3001-apply-operations-to-maximize-score) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -404,6 +409,7 @@ Collection of LeetCode questions to ace the coding interview! Maintaining my DSA
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0042-trapping-rain-water) |
+| [3001-apply-operations-to-maximize-score](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/3001-apply-operations-to-maximize-score) |
 ## Queue
 |  |
 | ------- |
@@ -428,4 +434,8 @@ Collection of LeetCode questions to ace the coding interview! Maintaining my DSA
 |  |
 | ------- |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+## Number Theory
+|  |
+| ------- |
+| [3001-apply-operations-to-maximize-score](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/3001-apply-operations-to-maximize-score) |
 <!---LeetCode Topics End-->

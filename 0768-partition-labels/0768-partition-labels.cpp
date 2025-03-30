@@ -9,13 +9,11 @@ public:
                 map[s[i] - 'a'] = i;
             }
         }
-        cout<<"what";
 
         int l = 0, r = 0;
         int start  = 0;
         while(l < (int)s.length() && r < (int)s.length()){
             r = max(map[s[l] - 'a'], r);
-            cout<<"why"<<r;
             if(l == r) {
                 answer.push_back(r-start + 1);
                 start = r + 1;

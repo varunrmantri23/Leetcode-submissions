@@ -11,5 +11,12 @@ public:
             imax = max(imax, (long long)nums[k]);
         }
         return answer;
+        
+        /* 
+            ans = 77, imax = 12, dmax = 11
+            nums = [12,6,1,2,7]
+            pointer - dry run here
+        */
+
     }
 };

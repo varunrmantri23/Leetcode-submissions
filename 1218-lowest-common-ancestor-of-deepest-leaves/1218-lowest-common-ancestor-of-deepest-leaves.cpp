@@ -9,44 +9,32 @@
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
- //The values of the nodes in the tree are unique.
 class Solution {
 public:
     TreeNode* lcaDeepestLeaves(TreeNode* root) {
-        //every node i need to check l subtree and r subtree and decide whether current node is lca or the subtree itself had inside , either l or r subtree has depth node then subtree can have lca
-
-        // //calculate depth first and then on max depth we will do lca logic
-        // //map node-> depth
-        // unordered_map<int, int> depth;
-        // dfsDepth(root, 0, depth);
-        // // for(auto &i : depth){
-        // //     cout << i.first << " " << i.second << endl;
-        // // }
+        //we can find maxdepth with recursion -> then find those nodes and check 
+        //if they dont have any l or r , so they can just return their value to up, and similarly their parent will check if l and r came, so parent becomes lca, if either or, then that particular subree lca is the lca and we pass to root, and then finally we return the tree with lca node as root
         
-        int maxDepth = getDepth(root);
-        return getLCA(root, 0, maxDepth);
-    }
-    //macx depth
-    int getDepth(TreeNode* node) {
-        if (!node) return 0;
-        return 1 + max(getDepth(node->left), getDepth(node->right));
+        int maxDepth = getMaxDepth(root,0);
+        // cout <<maxDepth;
+        //now we dfs and if node depth match with maxdepth we do lca logic
+        return dfs(root, 0 , maxDepth);
     }
 
-    // void dfsDepth(TreeNode* x, int d,unordered_map<int, int> &depth){
-    //     if(x == nullptr) return;
-    //     depth[x->val] = d;
-    //     dfsDepth(x->left, d+1,depth);
-    //     dfsDepth(x->right, d+1,depth);
-    // }
-    //get lca
-     TreeNode* getLCA(TreeNode* n, int depth, int maxDepth) {
-        if (!n) return nullptr;
-        if (depth == maxDepth - 1 && !n->left && !n->right) return n;
+    int getMaxDepth(TreeNode* root, int depth){
+        if(root == nullptr) return 0;
+        return max(depth,max(getMaxDepth(root->left, depth+1),getMaxDepth(root->right, depth + 1)));
+    }
 
-        TreeNode* left = getLCA(n->left, depth + 1, maxDepth);
-        TreeNode* right = getLCA(n->right, depth + 1, maxDepth);
-
-        if (left && right) return n;
-        return left ? left : right;
+    TreeNode* dfs(TreeNode* root, int depth, int maxDepth){
+        if(!root) return root; //root is null only so yes
+        if(depth == maxDepth && root->left == nullptr && root->right ==nullptr){
+            return root;
+        }
+        TreeNode* left = dfs(root->left, depth+1, maxDepth);
+        TreeNode* right = dfs(root->right, depth+1, maxDepth);
+        if(left && right) return root; //parent
+        else if(left && !right) return left;
+        else return right;
     }
 };

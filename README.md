@@ -121,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! Maintaining my DSA
 | [1720-crawler-log-folder](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/1720-crawler-log-folder) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2107-find-unique-binary-string](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/2107-find-unique-binary-string) |
 | [2138-sum-of-beauty-in-the-array](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/2138-sum-of-beauty-in-the-array) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -337,6 +338,7 @@ Collection of LeetCode questions to ace the coding interview! Maintaining my DSA
 | [0650-2-keys-keyboard](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0650-2-keys-keyboard) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 | [2649-count-total-number-of-colored-cells](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/2649-count-total-number-of-colored-cells) |
@@ -381,6 +383,7 @@ Collection of LeetCode questions to ace the coding interview! Maintaining my DSA
 |  |
 | ------- |
 | [0476-number-complement](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0476-number-complement) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2308-divide-array-into-equal-pairs](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/2478-longest-nice-subarray) |
@@ -391,12 +394,14 @@ Collection of LeetCode questions to ace the coding interview! Maintaining my DSA
 | ------- |
 | [1160-letter-tile-possibilities](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2107-find-unique-binary-string](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/2107-find-unique-binary-string) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Enumeration
 |  |
 | ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Design
 |  |
@@ -461,4 +466,8 @@ Collection of LeetCode questions to ace the coding interview! Maintaining my DSA
 |  |
 | ------- |
 | [3001-apply-operations-to-maximize-score](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/3001-apply-operations-to-maximize-score) |
+## Combinatorics
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/1993-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->

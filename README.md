@@ -336,6 +336,7 @@ Collection of LeetCode questions to ace the coding interview! Maintaining my DSA
 | [0264-ugly-number-ii](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0273-integer-to-english-words) |
 | [0650-2-keys-keyboard](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0650-2-keys-keyboard) |
+| [0795-k-th-symbol-in-grammar](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0795-k-th-symbol-in-grammar) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -349,6 +350,7 @@ Collection of LeetCode questions to ace the coding interview! Maintaining my DSA
 |  |
 | ------- |
 | [0273-integer-to-english-words](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0273-integer-to-english-words) |
+| [0795-k-th-symbol-in-grammar](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0795-k-th-symbol-in-grammar) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -383,6 +385,7 @@ Collection of LeetCode questions to ace the coding interview! Maintaining my DSA
 |  |
 | ------- |
 | [0476-number-complement](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0476-number-complement) |
+| [0795-k-th-symbol-in-grammar](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0795-k-th-symbol-in-grammar) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2308-divide-array-into-equal-pairs](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/2308-divide-array-into-equal-pairs) |

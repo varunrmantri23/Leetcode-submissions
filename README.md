@@ -107,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview! Maintaining my DSA
 | [0238-product-of-array-except-self](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0238-product-of-array-except-self) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0368-largest-divisible-subset) |
+| [0416-partition-equal-subset-sum](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0416-partition-equal-subset-sum) |
 | [0624-maximum-distance-in-arrays](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0624-maximum-distance-in-arrays) |
 | [0890-lemonade-change](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0890-lemonade-change) |
 | [0921-spiral-matrix-iii](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0921-spiral-matrix-iii) |
@@ -302,6 +303,7 @@ Collection of LeetCode questions to ace the coding interview! Maintaining my DSA
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0264-ugly-number-ii](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0264-ugly-number-ii) |
 | [0368-largest-divisible-subset](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0368-largest-divisible-subset) |
+| [0416-partition-equal-subset-sum](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0416-partition-equal-subset-sum) |
 | [0650-2-keys-keyboard](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0650-2-keys-keyboard) |
 | [1170-shortest-common-supersequence](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/1170-shortest-common-supersequence) |
 | [1196-filling-bookcase-shelves](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/1196-filling-bookcase-shelves) |

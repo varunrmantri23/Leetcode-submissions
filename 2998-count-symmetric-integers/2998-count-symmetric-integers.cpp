@@ -14,11 +14,9 @@ public:
         int sumFirst = 0;
         int sumSecond = 0;
         int counter = 0;
-        while(counter < n){
-            if(counter < x){
-                sumFirst += (s[counter] - '0');
-            }
-            else sumSecond += (s[counter] - '0');
+        while(counter < x){
+            sumFirst += (s[counter] - '0');
+            sumSecond += (s[counter + x] - '0');
             counter++;
         }
         return sumFirst == sumSecond;

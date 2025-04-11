@@ -359,6 +359,7 @@ Collection of LeetCode questions to ace the coding interview! Maintaining my DSA
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 | [2649-count-total-number-of-colored-cells](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/2649-count-total-number-of-colored-cells) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/2802-find-the-punishment-number-of-an-integer) |
+| [2998-count-symmetric-integers](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/2998-count-symmetric-integers) |
 | [3001-apply-operations-to-maximize-score](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/3001-apply-operations-to-maximize-score) |
 | [3227-find-missing-and-repeated-values](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/3227-find-missing-and-repeated-values) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/3243-count-the-number-of-powerful-integers) |
@@ -422,6 +423,7 @@ Collection of LeetCode questions to ace the coding interview! Maintaining my DSA
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2998-count-symmetric-integers](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/2998-count-symmetric-integers) |
 ## Design
 |  |
 | ------- |

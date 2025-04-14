@@ -119,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview! Maintaining my DSA
 | [1496-lucky-numbers-in-a-matrix](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1511-count-number-of-teams](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/1511-count-number-of-teams) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1656-count-good-triplets](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/1656-count-good-triplets) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1720-crawler-log-folder](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/1720-crawler-log-folder) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
@@ -425,6 +426,7 @@ Collection of LeetCode questions to ace the coding interview! Maintaining my DSA
 ## Enumeration
 |  |
 | ------- |
+| [1656-count-good-triplets](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2998-count-symmetric-integers](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/2998-count-symmetric-integers) |

@@ -109,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! Maintaining my DSA
 | [0368-largest-divisible-subset](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0416-partition-equal-subset-sum) |
 | [0624-maximum-distance-in-arrays](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0624-maximum-distance-in-arrays) |
+| [0797-rabbits-in-forest](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0797-rabbits-in-forest) |
 | [0890-lemonade-change](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0890-lemonade-change) |
 | [0921-spiral-matrix-iii](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0921-spiral-matrix-iii) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -171,6 +172,7 @@ Collection of LeetCode questions to ace the coding interview! Maintaining my DSA
 | [0424-longest-repeating-character-replacement](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0424-longest-repeating-character-replacement) |
 | [0726-number-of-atoms](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0726-number-of-atoms) |
 | [0768-partition-labels](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0768-partition-labels) |
+| [0797-rabbits-in-forest](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0797-rabbits-in-forest) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/1160-letter-tile-possibilities) |
@@ -366,6 +368,7 @@ Collection of LeetCode questions to ace the coding interview! Maintaining my DSA
 | [0368-largest-divisible-subset](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0368-largest-divisible-subset) |
 | [0650-2-keys-keyboard](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0650-2-keys-keyboard) |
 | [0795-k-th-symbol-in-grammar](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0795-k-th-symbol-in-grammar) |
+| [0797-rabbits-in-forest](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0797-rabbits-in-forest) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -404,6 +407,7 @@ Collection of LeetCode questions to ace the coding interview! Maintaining my DSA
 | [0011-container-with-most-water](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0011-container-with-most-water) |
 | [0624-maximum-distance-in-arrays](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0624-maximum-distance-in-arrays) |
 | [0768-partition-labels](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0768-partition-labels) |
+| [0797-rabbits-in-forest](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0797-rabbits-in-forest) |
 | [0890-lemonade-change](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0890-lemonade-change) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2681-put-marbles-in-bags](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/2681-put-marbles-in-bags) |

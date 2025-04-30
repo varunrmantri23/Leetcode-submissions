@@ -117,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview! Maintaining my DSA
 | [1196-filling-bookcase-shelves](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/1196-filling-bookcase-shelves) |
 | [1293-three-consecutive-odds](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/1293-three-consecutive-odds) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1511-count-number-of-teams](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/1511-count-number-of-teams) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -384,6 +385,7 @@ Collection of LeetCode questions to ace the coding interview! Maintaining my DSA
 | [0650-2-keys-keyboard](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0650-2-keys-keyboard) |
 | [0795-k-th-symbol-in-grammar](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0795-k-th-symbol-in-grammar) |
 | [0797-rabbits-in-forest](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0797-rabbits-in-forest) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/1993-sum-of-all-subset-xor-totals) |

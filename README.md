@@ -134,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview! Maintaining my DSA
 | [2163-kth-distinct-string-in-an-array](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/2179-most-beautiful-item-for-each-query) |
+| [2215-finding-3-digit-even-numbers](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2249-count-the-hidden-sequences](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/2249-count-the-hidden-sequences) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
@@ -193,6 +194,7 @@ Collection of LeetCode questions to ace the coding interview! Maintaining my DSA
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2107-find-unique-binary-string](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/2107-find-unique-binary-string) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2215-finding-3-digit-even-numbers](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2308-divide-array-into-equal-pairs](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/2308-divide-array-into-equal-pairs) |
@@ -243,6 +245,7 @@ Collection of LeetCode questions to ace the coding interview! Maintaining my DSA
 | [1184-car-pooling](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/1184-car-pooling) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/2179-most-beautiful-item-for-each-query) |
+| [2215-finding-3-digit-even-numbers](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/2681-put-marbles-in-bags) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -472,6 +475,7 @@ Collection of LeetCode questions to ace the coding interview! Maintaining my DSA
 | [1656-count-good-triplets](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2215-finding-3-digit-even-numbers](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2998-count-symmetric-integers](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/2998-count-symmetric-integers) |
 | [3548-find-the-count-of-good-integers](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/3548-find-the-count-of-good-integers) |
 ## Design

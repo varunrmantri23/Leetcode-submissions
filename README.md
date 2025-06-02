@@ -226,6 +226,7 @@ Collection of LeetCode questions to ace the coding interview! Maintaining my DSA
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0344-reverse-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0392-is-subsequence) |
 | [0768-partition-labels](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0768-partition-labels) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/2551-apply-operations-to-an-array) |
@@ -279,6 +280,7 @@ Collection of LeetCode questions to ace the coding interview! Maintaining my DSA
 | [0038-count-and-say](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0038-count-and-say) |
 | [0273-integer-to-english-words](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0273-integer-to-english-words) |
 | [0344-reverse-string](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0424-longest-repeating-character-replacement) |
 | [0726-number-of-atoms](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0726-number-of-atoms) |
 | [0768-partition-labels](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0768-partition-labels) |
@@ -365,6 +367,7 @@ Collection of LeetCode questions to ace the coding interview! Maintaining my DSA
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0264-ugly-number-ii](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0264-ugly-number-ii) |
 | [0368-largest-divisible-subset](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0368-largest-divisible-subset) |
+| [0392-is-subsequence](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0416-partition-equal-subset-sum) |
 | [0650-2-keys-keyboard](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0650-2-keys-keyboard) |
 | [0806-domino-and-tromino-tiling](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0806-domino-and-tromino-tiling) |

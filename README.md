@@ -112,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! Maintaining my DSA
 | [0368-largest-divisible-subset](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0416-partition-equal-subset-sum) |
 | [0624-maximum-distance-in-arrays](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0624-maximum-distance-in-arrays) |
+| [0735-asteroid-collision](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0735-asteroid-collision) |
 | [0797-rabbits-in-forest](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0797-rabbits-in-forest) |
 | [0890-lemonade-change](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0890-lemonade-change) |
 | [0921-spiral-matrix-iii](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0921-spiral-matrix-iii) |
@@ -306,6 +307,7 @@ Collection of LeetCode questions to ace the coding interview! Maintaining my DSA
 | ------- |
 | [0042-trapping-rain-water](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0042-trapping-rain-water) |
 | [0726-number-of-atoms](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0726-number-of-atoms) |
+| [0735-asteroid-collision](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0735-asteroid-collision) |
 | [1078-remove-outermost-parentheses](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/1078-remove-outermost-parentheses) |
 | [1720-crawler-log-folder](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/1720-crawler-log-folder) |
 | [2846-robot-collisions](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/2846-robot-collisions) |
@@ -313,6 +315,7 @@ Collection of LeetCode questions to ace the coding interview! Maintaining my DSA
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0735-asteroid-collision) |
 | [0921-spiral-matrix-iii](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0921-spiral-matrix-iii) |
 | [1184-car-pooling](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/1184-car-pooling) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/2076-sum-of-digits-of-string-after-convert) |

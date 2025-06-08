@@ -355,6 +355,7 @@ Collection of LeetCode questions to ace the coding interview! Maintaining my DSA
 ## Depth-First Search
 |  |
 | ------- |
+| [0386-lexicographical-numbers](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0386-lexicographical-numbers) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0988-flip-equivalent-binary-trees](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0988-flip-equivalent-binary-trees) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -630,4 +631,8 @@ Collection of LeetCode questions to ace the coding interview! Maintaining my DSA
 |  |
 | ------- |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/2527-count-subarrays-with-fixed-bounds) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->

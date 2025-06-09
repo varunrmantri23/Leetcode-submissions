@@ -635,4 +635,5 @@ Collection of LeetCode questions to ace the coding interview! Maintaining my DSA
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0386-lexicographical-numbers) |
+| [0440-k-th-smallest-in-lexicographical-order](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 <!---LeetCode Topics End-->

@@ -223,6 +223,7 @@ Collection of LeetCode questions to ace the coding interview! Maintaining my DSA
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -308,6 +309,7 @@ Collection of LeetCode questions to ace the coding interview! Maintaining my DSA
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3451-string-compression-iii](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/3451-string-compression-iii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Stack
 |  |
 | ------- |
@@ -428,6 +430,7 @@ Collection of LeetCode questions to ace the coding interview! Maintaining my DSA
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2308-divide-array-into-equal-pairs](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Math
 |  |
 | ------- |

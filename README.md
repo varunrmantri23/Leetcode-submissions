@@ -441,6 +441,7 @@ Collection of LeetCode questions to ace the coding interview! Maintaining my DSA
 | [0795-k-th-symbol-in-grammar](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0795-k-th-symbol-in-grammar) |
 | [0797-rabbits-in-forest](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0797-rabbits-in-forest) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -489,6 +490,7 @@ Collection of LeetCode questions to ace the coding interview! Maintaining my DSA
 | [0768-partition-labels](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0797-rabbits-in-forest) |
 | [0890-lemonade-change](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0890-lemonade-change) |
+| [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |

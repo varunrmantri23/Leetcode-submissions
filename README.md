@@ -152,6 +152,7 @@ Collection of LeetCode questions to ace the coding interview! Maintaining my DSA
 | [2280-count-good-triplets-in-an-array](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/2280-count-good-triplets-in-an-array) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2308-divide-array-into-equal-pairs](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/2308-divide-array-into-equal-pairs) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2478-longest-nice-subarray](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/2478-longest-nice-subarray) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/2527-count-subarrays-with-fixed-bounds) |
@@ -268,6 +269,7 @@ Collection of LeetCode questions to ace the coding interview! Maintaining my DSA
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2215-finding-3-digit-even-numbers](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/2215-finding-3-digit-even-numbers) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/2681-put-marbles-in-bags) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -496,6 +498,7 @@ Collection of LeetCode questions to ace the coding interview! Maintaining my DSA
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2681-put-marbles-in-bags](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/2681-put-marbles-in-bags) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/2704-maximum-difference-by-remapping-a-digit) |

@@ -137,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview! Maintaining my DSA
 | [2107-find-unique-binary-string](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/2107-find-unique-binary-string) |
 | [2138-sum-of-beauty-in-the-array](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/2138-sum-of-beauty-in-the-array) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/2144-maximum-difference-between-increasing-elements) |
+| [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -252,6 +253,7 @@ Collection of LeetCode questions to ace the coding interview! Maintaining my DSA
 | [0350-intersection-of-two-arrays-ii](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2280-count-good-triplets-in-an-array](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/2280-count-good-triplets-in-an-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/2394-count-subarrays-with-score-less-than-k) |

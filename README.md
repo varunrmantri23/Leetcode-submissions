@@ -111,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! Maintaining my DSA
 | [0350-intersection-of-two-arrays-ii](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0416-partition-equal-subset-sum) |
+| [0594-longest-harmonious-subsequence](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0594-longest-harmonious-subsequence) |
 | [0624-maximum-distance-in-arrays](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0624-maximum-distance-in-arrays) |
 | [0735-asteroid-collision](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0735-asteroid-collision) |
 | [0797-rabbits-in-forest](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0797-rabbits-in-forest) |
@@ -198,6 +199,7 @@ Collection of LeetCode questions to ace the coding interview! Maintaining my DSA
 | [0264-ugly-number-ii](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0264-ugly-number-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0424-longest-repeating-character-replacement) |
+| [0594-longest-harmonious-subsequence](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0594-longest-harmonious-subsequence) |
 | [0726-number-of-atoms](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0726-number-of-atoms) |
 | [0768-partition-labels](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0797-rabbits-in-forest) |
@@ -268,6 +270,7 @@ Collection of LeetCode questions to ace the coding interview! Maintaining my DSA
 | [0075-sort-colors](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0075-sort-colors) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0368-largest-divisible-subset) |
+| [0594-longest-harmonious-subsequence](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0594-longest-harmonious-subsequence) |
 | [0726-number-of-atoms](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0726-number-of-atoms) |
 | [1184-car-pooling](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/1184-car-pooling) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -426,6 +429,7 @@ Collection of LeetCode questions to ace the coding interview! Maintaining my DSA
 | [0003-longest-substring-without-repeating-characters](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0424-longest-repeating-character-replacement](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0424-longest-repeating-character-replacement) |
+| [0594-longest-harmonious-subsequence](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0594-longest-harmonious-subsequence) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/2394-count-subarrays-with-score-less-than-k) |
@@ -440,6 +444,7 @@ Collection of LeetCode questions to ace the coding interview! Maintaining my DSA
 ## Counting
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0594-longest-harmonious-subsequence) |
 | [1160-letter-tile-possibilities](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/1160-letter-tile-possibilities) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/2163-kth-distinct-string-in-an-array) |

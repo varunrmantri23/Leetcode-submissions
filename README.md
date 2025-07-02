@@ -326,6 +326,7 @@ Collection of LeetCode questions to ace the coding interview! Maintaining my DSA
 | [3451-string-compression-iii](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/3451-string-compression-iii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3617-find-the-original-typed-string-i](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/3617-find-the-original-typed-string-i) |
+| [3618-find-the-original-typed-string-ii](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/3618-find-the-original-typed-string-ii) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Stack
@@ -419,6 +420,7 @@ Collection of LeetCode questions to ace the coding interview! Maintaining my DSA
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3618-find-the-original-typed-string-ii](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/3618-find-the-original-typed-string-ii) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -588,6 +590,7 @@ Collection of LeetCode questions to ace the coding interview! Maintaining my DSA
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2915-count-of-interesting-subarrays](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/2915-count-of-interesting-subarrays) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3618-find-the-original-typed-string-ii](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/3618-find-the-original-typed-string-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/3647-zero-array-transformation-iii) |
 ## Database
 |  |

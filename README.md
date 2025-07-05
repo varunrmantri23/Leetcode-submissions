@@ -127,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview! Maintaining my DSA
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1511-count-number-of-teams](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/1511-count-number-of-teams) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1656-count-good-triplets](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/1656-count-good-triplets) |
@@ -210,6 +211,7 @@ Collection of LeetCode questions to ace the coding interview! Maintaining my DSA
 | [1227-number-of-equivalent-domino-pairs](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2107-find-unique-binary-string](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/2107-find-unique-binary-string) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/2215-finding-3-digit-even-numbers) |
@@ -451,6 +453,7 @@ Collection of LeetCode questions to ace the coding interview! Maintaining my DSA
 | [0594-longest-harmonious-subsequence](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0594-longest-harmonious-subsequence) |
 | [1160-letter-tile-possibilities](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/1160-letter-tile-possibilities) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2308-divide-array-into-equal-pairs](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/2308-divide-array-into-equal-pairs) |

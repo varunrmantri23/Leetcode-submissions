@@ -187,6 +187,7 @@ Collection of LeetCode questions to ace the coding interview! Maintaining my DSA
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/3483-alternating-groups-ii) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
+| [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3647-zero-array-transformation-iii](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/3647-zero-array-transformation-iii) |
@@ -434,6 +435,7 @@ Collection of LeetCode questions to ace the coding interview! Maintaining my DSA
 | [2415-count-the-number-of-ideal-arrays](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
+| [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3618-find-the-original-typed-string-ii](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/3618-find-the-original-typed-string-ii) |
 ## Binary Indexed Tree
 |  |

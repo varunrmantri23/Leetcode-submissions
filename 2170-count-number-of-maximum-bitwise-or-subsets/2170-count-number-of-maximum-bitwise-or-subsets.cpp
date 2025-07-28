@@ -2,40 +2,27 @@ class Solution {
 public:
     int countMaxOrSubsets(vector<int>& nums) {
         int n = nums.size();
-        int maxOrValue = 0;
-
-        // Calculate the maximum OR value
+        int maxOR = 0;
         for (int num : nums) {
-            maxOrValue |= num;
+            maxOR |= num;
+        }
+        vector<vector<int>> dp(n+1, vector<int>(maxOR + 1, 0));
+        // dp would look like nums on one side and the other will be maxor, the
+        // final cell will hold our answer i.e dp[n-1][maxOR] which tells that
+        // for maxOR we have these many subsets
+        for (int j = 0; j <= maxOR; ++j) {
+            dp[n][j] = (j == maxOR) ? 1 : 0;
         }
 
-        vector<vector<int>> memo(n, vector<int>(maxOrValue + 1, -1));
-
-        return countSubsetsRecursive(nums, 0, 0, maxOrValue, memo);
-    }
-
-private:
-    int countSubsetsRecursive(vector<int>& nums, int index, int currentOr,
-                              int targetOr, vector<vector<int>>& memo) {
-        // Base case: reached the end of the array
-        if (index == nums.size()) {
-            return (currentOr == targetOr) ? 1 : 0;
+        for (int i = n - 1; i >= 0; i--) {
+            for (int j = 0; j < maxOR + 1; j++) {
+                int countWithout = dp[i + 1][j];
+                int orWith = (j | nums[i]);
+                int countWith = 0;
+                if (orWith <= maxOR) countWith = dp[i + 1][orWith];
+                dp[i][j] = countWith + countWithout;
+            }
         }
-
-        // Check if the result for this state is already memoized
-        if (memo[index][currentOr] != -1) {
-            return memo[index][currentOr];
-        }
-
-        // Don't include the current number
-        int countWithout =
-            countSubsetsRecursive(nums, index + 1, currentOr, targetOr, memo);
-
-        // Include the current number
-        int countWith = countSubsetsRecursive(
-            nums, index + 1, currentOr | nums[index], targetOr, memo);
-
-        // Memoize and return the result
-        return memo[index][currentOr] = countWithout + countWith;
+        return dp[0][0];
     }
 };

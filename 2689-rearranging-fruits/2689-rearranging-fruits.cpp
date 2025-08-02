@@ -26,8 +26,8 @@ public:
                 finalList.push_back(cost);
             }
         }
-        sort(finalList.begin(), finalList.end());
-
+        // sort(finalList.begin(), finalList.end());
+        nth_element(begin(finalList), begin(finalList)+ finalList.size()/2, end(finalList)); //since we care only abt first half
         long long result = 0;
         for(int i = 0; i < finalList.size()/2;i++){
             result += min(finalList[i], minEl*2); //we use indirect swap to save cost and use minEL twice

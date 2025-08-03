@@ -108,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview! Maintaining my DSA
 | [0128-longest-consecutive-sequence](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0135-candy) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0200-number-of-islands](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0238-product-of-array-except-self) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0368-largest-divisible-subset) |
@@ -410,6 +411,7 @@ Collection of LeetCode questions to ace the coding interview! Maintaining my DSA
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0200-number-of-islands) |
 | [0386-lexicographical-numbers](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0386-lexicographical-numbers) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0988-flip-equivalent-binary-trees](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0988-flip-equivalent-binary-trees) |
@@ -425,6 +427,7 @@ Collection of LeetCode questions to ace the coding interview! Maintaining my DSA
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0073-set-matrix-zeroes) |
+| [0200-number-of-islands](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0200-number-of-islands) |
 | [0921-spiral-matrix-iii](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0921-spiral-matrix-iii) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
@@ -544,6 +547,7 @@ Collection of LeetCode questions to ace the coding interview! Maintaining my DSA
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0200-number-of-islands) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -668,6 +672,7 @@ Collection of LeetCode questions to ace the coding interview! Maintaining my DSA
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0200-number-of-islands) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2793-count-the-number-of-complete-components](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/2793-count-the-number-of-complete-components) |

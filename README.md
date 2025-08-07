@@ -202,6 +202,7 @@ Collection of LeetCode questions to ace the coding interview! Maintaining my DSA
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3647-zero-array-transformation-iii](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/3647-zero-array-transformation-iii) |
+| [3648-find-the-maximum-number-of-fruits-collected](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
@@ -440,6 +441,7 @@ Collection of LeetCode questions to ace the coding interview! Maintaining my DSA
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [3227-find-missing-and-repeated-values](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/3227-find-missing-and-repeated-values) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3648-find-the-maximum-number-of-fruits-collected](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -468,6 +470,7 @@ Collection of LeetCode questions to ace the coding interview! Maintaining my DSA
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3618-find-the-original-typed-string-ii](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/3618-find-the-original-typed-string-ii) |
+| [3648-find-the-maximum-number-of-fruits-collected](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Binary Indexed Tree
 |  |
 | ------- |

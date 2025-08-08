@@ -217,6 +217,7 @@ Collection of LeetCode questions to ace the coding interview! Maintaining my DSA
 | [0003-longest-substring-without-repeating-characters](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0073-set-matrix-zeroes](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0073-set-matrix-zeroes) |
+| [0076-minimum-window-substring](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0128-longest-consecutive-sequence) |
 | [0264-ugly-number-ii](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0264-ugly-number-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -332,6 +333,7 @@ Collection of LeetCode questions to ace the coding interview! Maintaining my DSA
 | [0003-longest-substring-without-repeating-characters](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0038-count-and-say](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0038-count-and-say) |
+| [0076-minimum-window-substring](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0076-minimum-window-substring) |
 | [0273-integer-to-english-words](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0273-integer-to-english-words) |
 | [0344-reverse-string](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0392-is-subsequence) |
@@ -482,6 +484,7 @@ Collection of LeetCode questions to ace the coding interview! Maintaining my DSA
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0076-minimum-window-substring](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0424-longest-repeating-character-replacement) |
 | [0594-longest-harmonious-subsequence](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0594-longest-harmonious-subsequence) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/1460-number-of-substrings-containing-all-three-characters) |

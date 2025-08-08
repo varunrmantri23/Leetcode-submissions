@@ -454,6 +454,7 @@ Collection of LeetCode questions to ace the coding interview! Maintaining my DSA
 | [0416-partition-equal-subset-sum](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0416-partition-equal-subset-sum) |
 | [0650-2-keys-keyboard](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0650-2-keys-keyboard) |
 | [0806-domino-and-tromino-tiling](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0806-domino-and-tromino-tiling) |
+| [0826-soup-servings](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0826-soup-servings) |
 | [0943-sum-of-subarray-minimums](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0943-sum-of-subarray-minimums) |
 | [1170-shortest-common-supersequence](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/1170-shortest-common-supersequence) |
 | [1196-filling-bookcase-shelves](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/1196-filling-bookcase-shelves) |
@@ -521,6 +522,7 @@ Collection of LeetCode questions to ace the coding interview! Maintaining my DSA
 | [0650-2-keys-keyboard](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0650-2-keys-keyboard) |
 | [0795-k-th-symbol-in-grammar](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0795-k-th-symbol-in-grammar) |
 | [0797-rabbits-in-forest](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0797-rabbits-in-forest) |
+| [0826-soup-servings](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0826-soup-servings) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
@@ -766,4 +768,8 @@ Collection of LeetCode questions to ace the coding interview! Maintaining my DSA
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0826-soup-servings](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0826-soup-servings) |
 <!---LeetCode Topics End-->

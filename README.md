@@ -519,6 +519,7 @@ Collection of LeetCode questions to ace the coding interview! Maintaining my DSA
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0231-power-of-two) |
 | [0264-ugly-number-ii](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0273-integer-to-english-words) |
 | [0368-largest-divisible-subset](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0368-largest-divisible-subset) |
@@ -553,6 +554,7 @@ Collection of LeetCode questions to ace the coding interview! Maintaining my DSA
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0231-power-of-two) |
 | [0273-integer-to-english-words](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0273-integer-to-english-words) |
 | [0795-k-th-symbol-in-grammar](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0795-k-th-symbol-in-grammar) |
 | [2050-count-good-numbers](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/2050-count-good-numbers) |
@@ -618,6 +620,7 @@ Collection of LeetCode questions to ace the coding interview! Maintaining my DSA
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0231-power-of-two) |
 | [0476-number-complement](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0476-number-complement) |
 | [0795-k-th-symbol-in-grammar](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0795-k-th-symbol-in-grammar) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/1993-sum-of-all-subset-xor-totals) |

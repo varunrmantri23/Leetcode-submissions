@@ -457,6 +457,7 @@ Collection of LeetCode questions to ace the coding interview! Maintaining my DSA
 | [0650-2-keys-keyboard](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0650-2-keys-keyboard) |
 | [0806-domino-and-tromino-tiling](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0806-domino-and-tromino-tiling) |
 | [0826-soup-servings](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0826-soup-servings) |
+| [0867-new-21-game](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0867-new-21-game) |
 | [0943-sum-of-subarray-minimums](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0943-sum-of-subarray-minimums) |
 | [1170-shortest-common-supersequence](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/1170-shortest-common-supersequence) |
 | [1196-filling-bookcase-shelves](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/1196-filling-bookcase-shelves) |
@@ -487,6 +488,7 @@ Collection of LeetCode questions to ace the coding interview! Maintaining my DSA
 | [0076-minimum-window-substring](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0424-longest-repeating-character-replacement) |
 | [0594-longest-harmonious-subsequence](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0594-longest-harmonious-subsequence) |
+| [0867-new-21-game](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0867-new-21-game) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
@@ -527,6 +529,7 @@ Collection of LeetCode questions to ace the coding interview! Maintaining my DSA
 | [0795-k-th-symbol-in-grammar](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0795-k-th-symbol-in-grammar) |
 | [0797-rabbits-in-forest](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0826-soup-servings) |
+| [0867-new-21-game](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0867-new-21-game) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
@@ -778,4 +781,5 @@ Collection of LeetCode questions to ace the coding interview! Maintaining my DSA
 |  |
 | ------- |
 | [0826-soup-servings](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0826-soup-servings) |
+| [0867-new-21-game](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/0867-new-21-game) |
 <!---LeetCode Topics End-->

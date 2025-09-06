@@ -208,6 +208,7 @@ Collection of LeetCode questions to ace the coding interview! Maintaining my DSA
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
+| [3744-minimum-operations-to-make-array-elements-zero](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/3790-fruits-into-baskets-ii) |
@@ -553,6 +554,7 @@ Collection of LeetCode questions to ace the coding interview! Maintaining my DSA
 | [3548-find-the-count-of-good-integers](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/3548-find-the-count-of-good-integers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
+| [3744-minimum-operations-to-make-array-elements-zero](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Recursion
 |  |
@@ -637,6 +639,7 @@ Collection of LeetCode questions to ace the coding interview! Maintaining my DSA
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
+| [3744-minimum-operations-to-make-array-elements-zero](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 ## Backtracking
 |  |
 | ------- |

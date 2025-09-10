@@ -140,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview! Maintaining my DSA
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1720-crawler-log-folder](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/1720-crawler-log-folder) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2107-find-unique-binary-string](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/2107-find-unique-binary-string) |
@@ -237,6 +238,7 @@ Collection of LeetCode questions to ace the coding interview! Maintaining my DSA
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2107-find-unique-binary-string](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/2107-find-unique-binary-string) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/2215-finding-3-digit-even-numbers) |
@@ -595,6 +597,7 @@ Collection of LeetCode questions to ace the coding interview! Maintaining my DSA
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/varunrmantri23/Leetcode-submissions/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
